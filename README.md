@@ -1,2 +1,3 @@
 # CSS_Shape_Generator_app
- Streamlit app to generate CSS based shapes
+
+A Simple Streamlit App For CSS Shape Generation

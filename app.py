@@ -4,7 +4,7 @@ import streamlit as st
 
 
 def main():
-	"""A Simple Streamlit App For CSS Shape Generation """
+	""" A Simple Streamlit App For CSS Shape Generation """
 	st.title("Simple CSS Shape Generator")
 
 	st.subheader("Design")
